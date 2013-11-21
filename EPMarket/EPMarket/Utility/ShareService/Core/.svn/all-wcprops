@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core
+END
+SinaWeiboSharer.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SinaWeiboSharer.m
+END
+WYWeiboSharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/WYWeiboSharer.h
+END
+OAuthInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/OAuthInfo.h
+END
+WB2Util.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/WB2Util.m
+END
+RenRenSharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/RenRenSharer.h
+END
+WYWeiboSharer.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/WYWeiboSharer.m
+END
+DataStatistic.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/DataStatistic.h
+END
+OAuthInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/OAuthInfo.m
+END
+SHSOAuthSharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSOAuthSharer.h
+END
+SHSEmailAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSEmailAction.h
+END
+RenRenSharer.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/RenRenSharer.m
+END
+WB2Request.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/WB2Request.h
+END
+DataStatistic.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/DataStatistic.m
+END
+SHSCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSCommon.h
+END
+SHSEmailAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSEmailAction.m
+END
+WB2Request.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/WB2Request.m
+END
+AsyncOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/AsyncOp.h
+END
+WB2SDKGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/WB2SDKGlobal.h
+END
+NSMutableURLRequest+FormData.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/NSMutableURLRequest+FormData.h
+END
+AsyncOp.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/AsyncOp.m
+END
+SHSSafariAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSSafariAction.h
+END
+NSMutableURLRequest+FormData.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/NSMutableURLRequest+FormData.m
+END
+SHSOAuth1Sharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSOAuth1Sharer.h
+END
+SHSRedirectSharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSRedirectSharer.h
+END
+GTMDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/GTMDefines.h
+END
+SHSOAuth2Sharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSOAuth2Sharer.h
+END
+TXWeiboSharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/TXWeiboSharer.h
+END
+SHSCopyAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSCopyAction.h
+END
+SHSSafariAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSSafariAction.m
+END
+KaixinSharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/KaixinSharer.h
+END
+SHSOAuth1Sharer.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSOAuth1Sharer.m
+END
+SHSRedirectSharer.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSRedirectSharer.m
+END
+SHSOAuth2Sharer.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSOAuth2Sharer.m
+END
+TXWeiboRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/TXWeiboRequest.h
+END
+SHSCopyAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSCopyAction.m
+END
+SHSAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSAction.h
+END
+TXWeiboSharer.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/TXWeiboSharer.m
+END
+KaixinSharer.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/KaixinSharer.m
+END
+SouhuWeiboSharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SouhuWeiboSharer.h
+END
+TXWeiboRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/TXWeiboRequest.m
+END
+SouhuWeiboSharer.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SouhuWeiboSharer.m
+END
+SHSCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSCore.h
+END
+SinaWeiboSharer2.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SinaWeiboSharer2.h
+END
+SinaWeiboSharer2.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SinaWeiboSharer2.m
+END
+SHSSMSAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSSMSAction.h
+END
+SHSSMSAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSSMSAction.m
+END
+SHSAPIKeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SHSAPIKeys.h
+END
+SinaWeiboSharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/SinaWeiboSharer.h
+END
+WB2Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/Core/WB2Util.h
+END

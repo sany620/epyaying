@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/epyaying/!svn/ver/34/epyaying/EPMarket/EPMarket/Data
+END
+EPBaseData.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/epyaying/!svn/ver/32/epyaying/EPMarket/EPMarket/Data/EPBaseData.h
+END
+EPPageData.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/epyaying/!svn/ver/32/epyaying/EPMarket/EPMarket/Data/EPPageData.h
+END
+EPResultData.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/epyaying/!svn/ver/11/epyaying/EPMarket/EPMarket/Data/EPResultData.h
+END
+EPBaseData.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/epyaying/!svn/ver/9/epyaying/EPMarket/EPMarket/Data/EPBaseData.m
+END
+EPPageData.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/epyaying/!svn/ver/32/epyaying/EPMarket/EPMarket/Data/EPPageData.m
+END
+EPResultData.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/epyaying/!svn/ver/12/epyaying/EPMarket/EPMarket/Data/EPResultData.m
+END

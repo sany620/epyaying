@@ -1,0 +1,24 @@
+//
+//  EPScanShopViewController.h
+//  EPMarket
+//
+//  寻花觅宝
+//
+//  Created by xx on 13-2-16.
+//  Copyright (c) 2013年 com.chichuang. All rights reserved.
+//
+
+#import "EPBaseViewController.h"
+
+@interface EPScanShopViewController : EPBaseViewController
+@property (retain, nonatomic) IBOutlet UIButton *activityRules;
+@property (retain, nonatomic) IBOutlet UIButton *signInBtn;
+
+@property (retain, nonatomic) IBOutlet UIView *rulesView;
+- (IBAction)signIn:(UIButton *)sender;
+@property (retain, nonatomic) IBOutlet UIButton *noticeBtn;
+- (IBAction)notice:(UIButton *)sender;
+
+- (IBAction)activityRules:(UIButton *)sender;
+
+@end

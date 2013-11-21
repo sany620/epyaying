@@ -1,0 +1,49 @@
+//
+//  EPScanShopSignInViewController.m
+//  EPMarket
+//
+//  Created by Chuang CO.,LTD. Chi on 13-2-20.
+//  Copyright (c) 2013年 com.chichuang. All rights reserved.
+//
+
+#import "EPScanShopSignInViewController.h"
+
+@interface EPScanShopSignInViewController ()
+
+@end
+
+@implementation EPScanShopSignInViewController
+@synthesize image = _image;
+
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
+{
+    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+    if (self) {
+        // Custom initialization
+    }
+    return self;
+}
+
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
+    // Do any additional setup after loading the view from its nib.
+    self.title = @"授权登陆";
+    NSLog(@"%f,%f,%f,%f",_image.frame.origin.x,_image.frame.origin.y,_image.frame.size.width,_image.frame.size.height);
+}
+
+- (void)didReceiveMemoryWarning
+{
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+
+- (void)dealloc {
+    [_image release];
+    [super dealloc];
+}
+- (void)viewDidUnload {
+    [self setImage:nil];
+    [super viewDidUnload];
+}
+@end

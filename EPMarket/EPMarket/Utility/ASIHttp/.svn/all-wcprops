@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIAuthenticationDialog.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIDataDecompressor.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIAuthenticationDialog.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIDataDecompressor.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIFormDataRequest.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIFormDataRequest.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIInputStream.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/epyaying/!svn/ver/6/epyaying/EPMarket/EPMarket/Utility/ASIHttp/ASIDataCompressor.m
+END

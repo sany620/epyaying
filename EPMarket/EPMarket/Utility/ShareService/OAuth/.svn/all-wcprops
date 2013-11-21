@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth
+END
+OAServiceTicket.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAServiceTicket.m
+END
+OADataFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OADataFetcher.h
+END
+OAPlaintextSignatureProvider.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAPlaintextSignatureProvider.m
+END
+OAuthConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAuthConsumer.h
+END
+OADataFetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OADataFetcher.m
+END
+OAToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAToken.h
+END
+OAHMAC_SHA1SignatureProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAHMAC_SHA1SignatureProvider.h
+END
+OASignatureProviding.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OASignatureProviding.h
+END
+OAToken.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAToken.m
+END
+OAMutableURLRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAMutableURLRequest.h
+END
+OAAsynchronousDataFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAAsynchronousDataFetcher.h
+END
+OAHMAC_SHA1SignatureProvider.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAHMAC_SHA1SignatureProvider.m
+END
+OARequestParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OARequestParameter.h
+END
+OAMutableURLRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAMutableURLRequest.m
+END
+OAAsynchronousDataFetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAAsynchronousDataFetcher.m
+END
+OAConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAConsumer.h
+END
+OARequestParameter.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OARequestParameter.m
+END
+OAConsumer.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAConsumer.m
+END
+OAServiceTicket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAServiceTicket.h
+END
+OAPlaintextSignatureProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/epyaying/!svn/ver/35/epyaying/EPMarket/EPMarket/Utility/ShareService/OAuth/OAPlaintextSignatureProvider.h
+END
